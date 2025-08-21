@@ -1,9 +1,4 @@
 
----
-
-# 🔹 7. Centralizar tudo no repositório “hub”
-No `portfolio-data-engineering`:
-```markdown
 # Portfólio • Engenharia de Dados
 
 Meus principais projetos práticos em Engenharia de Dados:
