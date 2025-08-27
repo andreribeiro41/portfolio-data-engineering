@@ -9,4 +9,4 @@ Meus principais projetos práticos em Engenharia de Dados:
 | Análise Exploratória | Pandas, Plotly | Insights a partir de dataset real | [Repo](https://github.com/<usuario>/eda-analise-dados-reais) |
 | Data Lake com Spark | PySpark, Parquet | Arquitetura Medallion (bronze, silver, gold) | [Repo](https://github.com/<usuario>/data-lake-spark) |
 | Streaming em Tempo Real | Kafka, Spark | Pipeline para dados em tempo real | [Repo](https://github.com/<usuario>/streaming-kafka-spark) |
-| Dashboard BI | Streamlit | KPIs interativos em dashboard | [Repo](https://github.com/<usuario>/dashboard-bi) |
+| Dashboard BI | Streamlit | KPIs interativos em dashboard | [Repo](https://github.com/andreribeiro41/weather-dashboard-streamlit) 
